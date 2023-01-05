@@ -1,5 +1,3 @@
-# Demo Project README
+# Demo Project LICENSE
 
-This is a simple readme file 
-
-Added new line via new branch/feature
+This is a simple LICENSE file
